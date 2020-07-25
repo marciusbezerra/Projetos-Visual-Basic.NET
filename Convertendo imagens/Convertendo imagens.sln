@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MCB - Conversor Gráfico", "MCB - Conversor Gráfico.vbproj", "{1B348E38-6031-424A-A301-C1BAEECED770}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MCB ConvGraf Setup", "MCBConvGraf\MCBConvGraf.vdproj", "{44CBF521-23C5-48BA-B474-E54A873F3F04}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B348E38-6031-424A-A301-C1BAEECED770}.Debug.ActiveCfg = Debug|.NET
+		{1B348E38-6031-424A-A301-C1BAEECED770}.Debug.Build.0 = Debug|.NET
+		{1B348E38-6031-424A-A301-C1BAEECED770}.Release.ActiveCfg = Release|.NET
+		{1B348E38-6031-424A-A301-C1BAEECED770}.Release.Build.0 = Release|.NET
+		{44CBF521-23C5-48BA-B474-E54A873F3F04}.Debug.ActiveCfg = Debug
+		{44CBF521-23C5-48BA-B474-E54A873F3F04}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
